@@ -2,7 +2,7 @@
 
 
 - 🔭 Atual mente tenho experiencia com analise de dados
-- 🌱 Estou estudando JavaScript, Html, css
+- 🌱 Estou estudando JavaScript, Html, css, Python
 - 📫 How to reach me: fernandolaudelino@gmail.com
 - 😄 Pronouns: Ele / Dele
 ##
